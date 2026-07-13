@@ -1,8 +1,8 @@
-# AI-Image-Classification-using-Teachable-Machine
+###  AI-Image-Classification-using-Teachable-Machine
 
 # AI Vehicle Classification (Sedan vs. Truck)
 
-An interactive Image Classification project developed as part of my training program. This project utilizes **Google's Teachable Machine** to train a machine learning model to classify vehicles into two primary categories: **Sedan** and **Truck**, and deploys/tests the model using **Google Colab**.
+An interactive Image Classification project developed as part of my training program at **Smart Methods**  . This project utilizes **Google's Teachable Machine** to train a machine learning model to classify vehicles into two primary categories: **Sedan** and **Truck**, and deploys/tests the model using **Google Colab**.
 
 ---
 
@@ -41,7 +41,7 @@ An interactive Image Classification project developed as part of my training pro
 
 1. Export your model from Teachable Machine as a **TensorFlow (Keras)** model (`keras_model.h5` and `labels.txt`).
 2. Upload the exported files to your Google Colab environment.
-3. Use the following Python code snippet to run predictions on your test images:
+3. Use the Python code snippet to run predictions on your test images:
 
 <img width="938" height="503" alt="Screenshot 2026-07-13 233940" src="https://github.com/user-attachments/assets/62573da2-1fa4-43ae-a62f-4956b0ab9dc5" />
 
