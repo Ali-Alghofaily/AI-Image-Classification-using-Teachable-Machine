@@ -1,0 +1,2 @@
+0 sedan
+1 truk
