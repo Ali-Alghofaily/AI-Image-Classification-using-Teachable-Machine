@@ -44,3 +44,8 @@ An interactive Image Classification project developed as part of my training pro
 3. Use the following Python code snippet to run predictions on your test images:
 
 <img width="938" height="503" alt="Screenshot 2026-07-13 233940" src="https://github.com/user-attachments/assets/62573da2-1fa4-43ae-a62f-4956b0ab9dc5" />
+
+## Results
+<img width="358" height="52" alt="Screenshot 2026-07-13 234415" src="https://github.com/user-attachments/assets/56574a38-c0e7-4809-b9f8-7c6dcab1b0ae" />
+
+
